@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pining maid, or, A pattern for lovers giving a brief account of the unfortunate death of a young man living in Coventry, shopkeeper, who drowned himself for the love of a maid daughter to a captain of the said city, because she denyed her promise and would not yeild to be his wife and now she lives in a most sad condition and is very much troubled in her mind the poet having a hint of some of her grief composed these lines into meeter, according to her directions and so caused it to be printed for all young men and maids, to take example by the same. The tune is, alack for my love I must dye.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28130</idno><idno type="EEBO-CITATION">99884639</idno>
+  <idno type="VID">192668</idno>
+  <idno type="EEBO-PROQUEST">2264208924</idno>
+  
+            <idno type="STC">Wing P2266</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[118]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[119]</idno>
+            <idno type="STC">ESTC R216095</idno>
+            <idno type="PROQUEST">ocm99884639</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884639e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192668)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[69])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pining maid, or, A pattern for lovers giving a brief account of the unfortunate death of a young man living in Coventry, shopkeeper, who drowned himself for the love of a maid daughter to a captain of the said city, because she denyed her promise and would not yeild to be his wife and now she lives in a most sad condition and is very much troubled in her mind the poet having a hint of some of her grief composed these lines into meeter, according to her directions and so caused it to be printed for all young men and maids, to take example by the same. The tune is, alack for my love I must dye.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Phillip Brooksby near the Hospeital-gate in West-Smith-field,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "Come all young men [and] maidens".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: Copy cut and mounted; second part has faded print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:192668:1"/>
+            <head>The pining Maid OR A Pattern for Lovers</head>
+            <argument>
+               <p>Giving a brief account of the unfortunate death of a young Man living in <hi>Coventry,</hi> Shopkeeper, who drowned himself for the Love of a Maid daughter to a Captain of the said City, because she denyed her promise and would not yeild to be his wife and now she lives in a most sad condition and is very much troubled in her mind the Poet having a bint of some of her grief c<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mposed these lines into meeter, according to her directions and so caused it to be Printed for all young men and maids, to take example by the same.</p>
+            </argument>
+            <opener>The tune is, <hi>alack for my Love I must dye.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of women with coffin</figDesc>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>COme all young Men &amp; Maidens</l>
+                  <l>and listen unto me,</l>
+                  <l>I briefly will declare</l>
+                  <l>how I'm plung'd in misery,</l>
+                  <l>And all through my own séeking</l>
+                  <l>I well may say truly,</l>
+                  <l>
+                     <hi>And 'tis for my Love that I mouen.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>There was a gallant young Man</l>
+                  <l>in <hi>Coventry</hi> did dwell,</l>
+                  <l>He was a brave Shop-keeper</l>
+                  <l>as it is known fall well,</l>
+                  <l>He loved me to dearly the</l>
+                  <l>truth of it to tell,</l>
+                  <l>
+                     <hi>And &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thrée years in Love together</l>
+                  <l>was this young Man and I,</l>
+                  <l>Our hearts in one were linked fast</l>
+                  <l>
+                     <hi>I</hi> cannot it deny,</l>
+                  <l>But <hi>I</hi> was the first breaker</l>
+                  <l>of the bands of amity,</l>
+                  <l>
+                     <hi>And, &amp;c,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>He</hi> was as well beloved</l>
+                  <l>as any Man could be.</l>
+                  <l>
+                     <hi>He</hi> was civil in his carriage</l>
+                  <l>to'th high and low degrée,</l>
+                  <l>Yet for all this poor soul</l>
+                  <l>he could find no Love</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:192668:1"/>
+               <head>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pa<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to the same tune.</head>
+               <lg>
+                  <l>MY Parents they <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>that <hi>I</hi> should <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>e</l>
+                  <l>Also I was cu<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>with him to lead my <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>But my Pride and A<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>did seek this deadly A<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>And 'tis for my Love <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ourn.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>His heart wa<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> no<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>or could rest but <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ight</l>
+                  <l>He sought all mea<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> p<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ase me</l>
+                  <l>and feed my fo<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> delight</l>
+                  <l>At last for to reward him</l>
+                  <l>I paid him with despight,</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For when that Marriage it grew nigh</l>
+                  <l>than <hi>I</hi> did him forsake,</l>
+                  <l>And gave him a flat answer</l>
+                  <l>then in their <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>de did speak,</l>
+                  <l>Oh <hi>Mary</hi> don't deceive me</l>
+                  <l>and cause my heart to break</l>
+                  <l>
+                     <hi>And, &amp;c,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> &amp; wall'd he wrung his hands</l>
+                  <l>and thus to me did say</l>
+                  <l>Sweet <hi>Mary</hi> it thou lovest me</l>
+                  <l>oh cast me not away,</l>
+                  <l>But still with a scornful look</l>
+                  <l>his words would not obey,</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He seeing no p<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rswasions</l>
+                  <l>my stony heart would move,</l>
+                  <l>He sighing sadly went away</l>
+                  <l>
+                     <hi>I</hi> did it him to prove</l>
+                  <l>I thought he did dissemble</l>
+                  <l>but he did mean true Love</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He laid himself upon the bed</l>
+                  <l>but there no tast could be,</l>
+                  <l>In's mind he was perplexed</l>
+                  <l>as plainly you may see;</l>
+                  <l>That very n<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ght be drown'd himself</l>
+                  <l>all for the love of me,</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> when <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> was brought me</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> was <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> was tormented</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> i<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>t to do</l>
+                  <l>Yet all things <hi>I</hi> kept secret</l>
+                  <l>and made no outward show,</l>
+                  <l>
+                     <hi>And, &amp;c,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Within a small time after</l>
+                  <l>appeared in my sight</l>
+                  <l>His gashly Ghost that lov'd me</l>
+                  <l>and did me sore affright,</l>
+                  <l>And groaning cry'd now <hi>I</hi> do come</l>
+                  <l>for my own hearts delight,</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Into such a damp if struck me</l>
+                  <l>and wounded so my heart,</l>
+                  <l>If a thousand swords had pierc'<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> me</l>
+                  <l>I could not a felt more smart</l>
+                  <l>Nor can all the Physit<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ans</l>
+                  <l>yet cure me with their art,</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>My friends thy much do blame me</l>
+                  <l>and all the Town beside,</l>
+                  <l>Those that which I kept company</l>
+                  <l>now cannot me abide</l>
+                  <l>Because I would not yeild</l>
+                  <l>to be his Bride</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now <hi>I</hi> have made a solemn Oath</l>
+                  <l>and mean to keep it truly,</l>
+                  <l>Because he lov'd me so well</l>
+                  <l>for his sake a Maid to dye</l>
+                  <l>My self I will refrain</l>
+                  <l>from all had company</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Ile live on bread and watter</l>
+                  <l>good dyet ile forsake,</l>
+                  <l>In the world I live in misery</l>
+                  <l>sweet Christ me ready make,</l>
+                  <l>Oh <hi>John</hi> I come, I come</l>
+                  <l>all this is for thy sake</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The fi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st <hi>I</hi> made light of it</l>
+                  <l>yet now it doth grieve me sore</l>
+                  <l>That I, should cast a man away</l>
+                  <l>that lov'd me long before</l>
+                  <l>
+                     <hi>I</hi> was the causer of his death</l>
+                  <l>which was worth worlds and more</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I hope I soon shall follow him</l>
+                  <l>whom <hi>I</hi> do love so dear,</l>
+                  <l>Though then <hi>I</hi> made light of him</l>
+                  <l>and for him did not care</l>
+                  <l>I thought love but an idle toy</l>
+                  <l>but now <hi>I</hi> find it dear</l>
+                  <l>
+                     <hi>And &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Young Maidens all both great &amp; small</l>
+                  <l>to you these lines <hi>I</hi> send,</l>
+                  <l>Be faithfull in your promise</l>
+                  <l>and true unto your f<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>end</l>
+                  <l>Least at the last you'r forced</l>
+                  <l>to cry out in the end</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Trust not Love o'<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e much</l>
+                  <l>I speak it flat and plain,</l>
+                  <l>Run not the h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zard of it</l>
+                  <l>but constant still remain</l>
+                  <l>For fear it be to late</l>
+                  <l>to call yesterday again</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For through foolish fancy</l>
+                  <l>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> many well do know.</l>
+                  <l>
+                     <hi>I</hi> wr<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ught my lov<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s destruction</l>
+                  <l>
+                     <hi>I</hi> sought his overthrow</l>
+                  <l>Now in <hi>Coventry</hi> fair City</l>
+                  <l>my love doth <hi>lye</hi> full low</l>
+                  <l>
+                     <hi>And, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>So adieu you faith ful lovers</l>
+                  <l>where ever that you be,</l>
+                  <l>Be sure to keep your promise</l>
+                  <l>in every degree,</l>
+                  <l>Though <hi>I</hi> remain upon the earth</l>
+                  <l>yet still my hearts with thee</l>
+                  <l>
+                     <hi>And 'tis for my love that I mourn.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for Phillip Brooksby near the Hospital-gate in West-Smith-field.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
